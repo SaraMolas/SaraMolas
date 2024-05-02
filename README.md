@@ -21,4 +21,4 @@ Hi, I'm Sara🙌, a recently-graduated PhD in Circuits Neuroscience at [UCL](htt
 
 **🔥My Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMolas&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMolas&theme=react&hide_progress=true)
