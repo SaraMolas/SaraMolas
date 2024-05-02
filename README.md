@@ -18,9 +18,7 @@
 
 **💻 Programming languages:**
 
-- Python
-- Matlab 
-- SQL
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+SQL+Matlab&pause=500)](https://git.io/typing-svg)
 
 **🔥My Stats:**
 
