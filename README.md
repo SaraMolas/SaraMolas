@@ -8,7 +8,7 @@ Hi,I'm Sara🙌, a recently-graduated PhD in Circuits Neuroscience at [UCL](http
 
 **About me:**
 
-- 🔭 I just completed a PhD in Circuits Neuroscience. Although a PhD in Neuroscience may sound like I spent all of my time looking through a microscope in my white lab coat, I actually spent most of the time in front of my computer!🤓  I used several mathematical and statistical analyses to identify patterns in large datasets. I employed quantitative methods to extract comprehensible information that helps us be a step closer to understanding the (presumably) most complex algorithm known to humankind, the brain. 
+- 🔭 I just completed a PhD in Circuits Neuroscience. Although a PhD in Neuroscience may sound like I spent all of my time looking through a microscope in my white lab coat, I actually spent most of the time in front of my computer!🤓  I used several mathematical and statistical analyses to identify patterns in large datasets, employing quantitative methods to extract comprehensible information to get us a step closer to understanding the most complex algorithm known to humankind, the brain. 
 - 🌱 I’m currently learning about supervised Machine Learning models.
 - 👯 I’m looking to participate in more Kaggle challenges and Hackathons. 
 - 😄 Pronouns: She/her
