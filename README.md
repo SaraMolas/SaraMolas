@@ -20,8 +20,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+SQL+Matlab&pause=500)](https://git.io/typing-svg)
 
-**🔥My Stats:**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraMolas&theme=react&background=000000)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMolas&theme=react&hide_progress=true)
