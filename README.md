@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Hi,I'm Sara🙌, a recently-graduated PhD in Circuits Neuroscience at [UCL](https://barry-lab.com/people/). 
+Hi, I'm Sara🙌, a recently-graduated PhD in Circuits Neuroscience at [UCL](https://barry-lab.com/people/). 
 
 **About me:**
 
