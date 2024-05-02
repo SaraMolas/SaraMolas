@@ -16,6 +16,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/saramolasmedina)
 
+**💻 Programming languages:**
+
+- Python
+- Matlab 
+- SQL
 
 **🔥My Stats:**
 
