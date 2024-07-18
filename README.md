@@ -7,7 +7,7 @@
 **👋 About me:**
 
 - 🎓 I just completed a PhD in Systems & Computational Neuroscience. Although it might sound like I spent all of my PhD looking through a microscope in a white lab coat, I actually was in front of my computer most of the time!🤓  I used several mathematical and statistical analyses, such as Monte Carlo Simulations, Support Vector Machines, correlations, and statistical tests, to identify patterns in large datasets. By employing quantitative methods, I extracted comprehensible information to get us a step closer to understanding the most complex algorithm known to humankind, the brain. 
-- 🌱 I’m currently learning about supervised Machine Learning models.
+- 🌱 I’m eager to expand my knowledge in Deep Learning.
 - 👯 I’m looking to participate in more Kaggle challenges and Hackathons. 
 - 😄 Pronouns: She/her
 - ☀️ Hobbies: bachata dancing, drawing, and anything outdoorsy!
