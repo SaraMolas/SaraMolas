@@ -4,19 +4,15 @@
 
 ## Hi there! I'm Sara 🙌
 
-I’m a **Research Scientist and Data Scientist** with a PhD in Systems & Computational Neuroscience from UCL, now transitioning into **AI safety and mechanistic interpretability research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically I take messy, complex data (rodent brain recordings or neural network activations) and turn it into insights that actually make sense.
+I’m a **Research Scientist and Data Scientist** with a PhD in Systems & Computational Neuroscience from UCL, now transitioning into **AI safety research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
 
-During my PhD, I independently led full-cycle research projects to investigate the internal representations of the GPS in the mouse brain. More recently, I completed a mechanistic interpretability research project as part of the SPAR programme, mentored by Stefan Heimersheim, which ended up in a NeurIPS workshop paper and a LessWrong publication.
+During my PhD, I independently led full-cycle research projects to investigate the internal representations of the GPS in the mouse brain. More recently, I completed a Mech Interp research project, mentored by Stefan Heimersheim, which resulted in a NeurIPS workshop paper and a LessWrong publication.
 
-### 🌱 Current focus
-I'm diving deep into **AI alignment and mechanistic interpretability**, exploring how models represent knowledge internally and how we can make AI more transparent, reliable, and aligned.
+🌱 Current focus: **AI alignment and mechanistic interpretability**. 
 
-### 🤝 Collaboration
-I’m always interested in collaborating on projects related to **Mechanistic interpretability**, or interesting applied research questions.  
+🤝 Collaboration: interested in projects on **Mechanistic interpretability**, or EA-aligned applied research questions.
 
-### ⚡ Fun facts
-- Pronouns: she/her  
-- Hobbies: dancing, netball, anything outdoorsy and trying new ways to challenge myself physically and mentally  
+⚡ Hobbies: dancing, netball, and anything outdoorsy!
 
 ### 💻 Tech & Tools
 - Python: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
