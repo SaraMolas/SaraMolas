@@ -4,15 +4,21 @@
 
 ## Hi there! I'm Sara 🙌
 
-I’m a **Research Scientist and Data Scientist** with a PhD in Systems & Computational Neuroscience from UCL, now transitioning into **AI safety research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
+### I study internal representations in both biological and artificial neural systems: how they are formed, how they can be interpreted, and how they shape behavior.
 
-During my PhD, I independently led full-cycle research projects to investigate the internal representations of the GPS in the mouse brain. More recently, I completed a Mech Interp research project, mentored by Stefan Heimersheim, which resulted in a NeurIPS workshop paper and a LessWrong publication.
+I’m a **Research Scientist** with a PhD in Systems & Computational Neuroscience from UCL, now transitioning into **AI safety research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
+
+Research Highlights
+
+- PhD research: Led full-cycle experiments and computational analyses to understand spatial representation in the mouse hippocampus (“the brain’s GPS”).
+- Mechanistic interpretability: Completed a research project mentored by Stefan Heimersheim (at FARAI) on computation in superposition, resulting in a NeurIPS workshop paper and LessWrong article.
+- Cross-domain representations: collaborated on a recent NeurIPS workshop paper applying Sparse Autoencoders to biological neural data, showing how interpretability tools can bridge AI and Neuroscience.
 
 🌱 Current focus: **AI alignment and mechanistic interpretability**. 
 
 🤝 Collaboration: interested in projects on **Mechanistic interpretability**, or EA-aligned applied research questions.
 
-⚡ Hobbies: dancing, netball, and anything outdoorsy!
+⚡ Hobbies: dancing, painting, and anything outdoorsy!
 
 ### 💻 Tech & Tools
 - Python: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
