@@ -4,9 +4,9 @@
 
 ## Hi there! I'm Sara 🙌
 
-### I study internal representations in both biological and artificial neural systems: how they are formed, how they can be interpreted, and how they shape behavior.
+#### I study internal representations in both biological and artificial neural systems: how they are formed, how they can be interpreted, and how they shape behavior.
 
-I’m a **Research Scientist** with a PhD in Systems & Computational Neuroscience from UCL, now transitioning into **AI safety research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
+I’m a **Research Scientist** with a PhD in Systems & Computational Neuroscience from UCL & QMUL, now transitioning into **AI safety research**. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
 
 Research Highlights
 
