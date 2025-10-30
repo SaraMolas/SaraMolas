@@ -21,7 +21,7 @@ Research Highlights
 ⚡ Hobbies: dancing, painting, and anything outdoorsy!
 
 ### 💻 Tech & Tools
-- Python: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Python: PyTorch, TransformerLens, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 - Neural networks, FastICA, Bayesian Inference, SVM, Gradient Boosted Trees, random forests
 - LLM experimentation, mechanistic interpretability  
 
