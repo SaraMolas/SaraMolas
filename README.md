@@ -8,7 +8,7 @@
 
 I’m a **Research Scientist** with a background in Computational Neuroscience, currently focusing on Mechanistic Interpretability. My work sits at the intersection of neuroscience, machine learning, and complex systems: basically taking messy, complex data (rodent brain recordings or neural network activations) and turning it into insights that actually make sense.
 
-Research Highlights
+### 🧠 Research Highlights
 
 - PhD research: Led full-cycle experiments and computational analyses to understand spatial representation in the mouse hippocampus (“the brain’s GPS”).
 - Mechanistic interpretability: Completed a research project mentored by Stefan Heimersheim (at FARAI) on computation in superposition, resulting in a NeurIPS workshop paper and LessWrong article.
